@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group>
+    <item
+        android:id="@+id/id_share"
+        android:title="Share"
+        >
+    </item>
+
+    <item
+        android:id="@+id/id_delete"
+        android:title="Delete">
+    </item>
+
+    <item
+        android:id="@+id/id_rename"
+        android:title="Rename">
+    </item>
+
+    <item
+        android:id="@+id/id_add"
+        android:title="Add"
+        >
+    </item>
+</group>
+
+    <group>
+        <item
+            android:id="@+id/id_share1"
+            android:title="Share"
+            >
+        </item>
+
+        <item
+            android:id="@+id/id_delete1"
+            android:title="Delete">
+        </item>
+
+        <item
+            android:id="@+id/id_rename1"
+            android:title="Rename">
+        </item>
+
+        <item
+            android:id="@+id/id_add1"
+            android:title="Add"
+            >
+        </item>
+    </group>
+
+</menu>
